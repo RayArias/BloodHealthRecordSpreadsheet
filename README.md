@@ -28,7 +28,7 @@
 <p> In a future version, we will introduce a function that will automatically fill in dates on all the sheets acording to entries placed on the Settings sheet. This functionality, however, has not yet been implemented. </p>
 
 
-##How It Works
+## How It Works
 
 <p> There is now an extra sheet labeled "Settings." On it, you can change the settings of the format of all three months of sheets. The first one toggles between 24-hour time and 12-hour AM/PM time. Type in a "0" here for 24-hour time, or a "1" for 12-hour AM/PM time. You may have to go to "Conditional Formatting" and "Manage Rules" and push "Apply" for your settings to take effect. </p>
 
