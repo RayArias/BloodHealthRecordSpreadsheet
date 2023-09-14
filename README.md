@@ -1,4 +1,4 @@
-# **BloodHealthRecordSpreadsheet v. 0.30 alpha (_JustHoldYourNoseAndVoteForJoeBiden_) by Ray Arias**
+# **BloodHealthRecordSpreadsheet v. 0.30 alpha/MIT (_JustHoldYourNoseAndVoteForJoeBiden_) by Ray Arias**
   
 <p> <b>BloodHealthRecordSpreadsheet v. 0.30 alpha (Codename: <i>JustHoldYourNoseAndVoteForJoeBiden</i>) released on 26 October 2020</b>: An Excel speadsheet for efficiently keeping a record of up to four blood pressure and blood glucose readings a day, plus space for notes for each reading.</p>
 
